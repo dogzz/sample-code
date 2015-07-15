@@ -53,7 +53,7 @@ public class UICatalogTest {
 
     @Before
     public void setUp() throws Exception {
-        // set up appium
+        // set up appiumsad asd
         File classpathRoot = new File(System.getProperty("user.dir"));
         File appDir = new File(classpathRoot, "../../../apps/UICatalog/build/Release-iphonesimulator");
         File app = new File(appDir, "UICatalog.app");
